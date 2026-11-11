@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies and build output (uncomment as needed)
+# node_modules/
+# dist/
+# build/
+# __pycache__/
+# *.pyc
